@@ -39,7 +39,6 @@ link: https://drive.google.com/file/d/1-4aGWbuxoRVoAM9SlWFuLO-FtTkmp6X_/view?usp
  HTML, CSS, JavaScript, React, PHP, and MySQL
 
 ### Image Representation
-<br>
 
 #### Home page:
 ![Image 1](https://github.com/PriyaKsagar2/PG-Life/blob/master/Readme-img/home.png)
