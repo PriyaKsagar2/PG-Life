@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">PG-Life</h1>
   <p align="center">
-    A student accommodation webApp
+    A student accommodation web app
     <br />
     </p>
 </div>
@@ -29,8 +29,43 @@ PG-Life is a user-centric web application developed with React that addresses th
    - GitHub Repository: Code and documentation available for review and reference.
    - Previous Hosting (Note: 000webhost is sometimes inactive): The application was previously deployed using 000webhost, providing reliable access to users.
 
-#### Website link 
-link: https://pixel6-task-customer-data-manager.vercel.app/](https://pg-life-bypriya.000webhostapp.com/
+#### Website live link 
+link: https://pg-life-bypriya.000webhostapp.com/
+
+#### Video of the website working in case the live link does not work.
+link: https://drive.google.com/file/d/1-4aGWbuxoRVoAM9SlWFuLO-FtTkmp6X_/view?usp=drive_link
 
 ### Built using 
  HTML, CSS, JavaScript, React, PHP, and MySQL
+
+### Image Representation
+<br>
+
+#### Home page:
+![Image 1](https://github.com/PriyaKsagar2/PG-Life/blob/master/Readme-img/home.png)
+
+
+<br>
+
+#### SignUp:
+![Image 2](https://github.com/PriyaKsagar2/PG-Life/blob/master/Readme-img/signUp.png)
+
+<br>
+
+#### Login:
+![Image 3](https://github.com/PriyaKsagar2/PG-Life/blob/master/Readme-img/login.png)
+
+<br>
+
+#### Profile:
+![Image 4](https://github.com/PriyaKsagar2/PG-Life/blob/master/Readme-img/profile.png)
+
+<br>
+
+#### PG - List:
+![Image 5](https://github.com/PriyaKsagar2/PG-Life/blob/master/Readme-img/pg-list.png)
+
+<br>
+
+#### PG - Details:
+![Image 6](https://github.com/PriyaKsagar2/PG-Life/blob/master/Readme-img/pg-detail.png)
